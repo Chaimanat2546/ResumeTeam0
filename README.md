@@ -43,6 +43,7 @@ git diff <commit_id>
 git diff <commit_id> <commit_id>
 
 git reset --hard <commit_id>
+git clean -df
 ```
 -Pull
 ```
