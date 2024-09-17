@@ -11,6 +11,8 @@ git restore <file_name>
 
 git status
 
-git commit -m "feat (feature) : เพิ่มคุณสมบัติใหม่"
+git log
+
+git commit -m "feat (feature1) : เพิ่มคุณสมบัติใหม่"
 git push origin < BRANCH-NAME >
 ```
